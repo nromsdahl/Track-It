@@ -3,6 +3,7 @@
 #based on blog https://gracefulsecurity.com/bmc-numara-track-it-decrypt-pass-tool/, updated for python3
 #test encyrpted string, decrypts to password: Dhs0+pZA8VM=
 #Usage:  Python3 trackit_decrypt.py Dhs0+pZA8VM=
+#Use at your own risk and only on systems you are authorized to hack, author takes no responsibility for anything.
 
 import base64
 import sys
